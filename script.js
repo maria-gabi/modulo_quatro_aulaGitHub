@@ -1,0 +1,1 @@
+console.log("Este é um script personalizado que está sendo executado no GitHub Actions");
